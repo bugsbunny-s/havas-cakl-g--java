@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class App {
+public class heat {
     public static void main(String[] args) throws Exception {
         Scanner inp = new Scanner(System.in);
 
